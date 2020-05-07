@@ -1,3 +1,5 @@
 # editors
 .idea
 
+# notary specific files, used for deployment of notary
+notary
